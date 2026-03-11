@@ -1,0 +1,12 @@
+{
+  "name": "wellfed-bot",
+  "version": "1.0.0",
+  "description": "Bot de pedidos Wellfed",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
